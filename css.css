@@ -1,0 +1,19 @@
+.box{
+    height: 500px;
+    width: 500px;
+    background: blue;
+    overflow: scroll;
+    }
+    
+    .him{
+        text-align: center;
+    }
+    .her
+    {
+        text-align:  right;
+    }
+    .yes
+    {
+        position:static;
+        text-align: center;
+    }
